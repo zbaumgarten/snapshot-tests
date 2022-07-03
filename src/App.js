@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <h2>
+          banan
+        </h2>
       </header>
     </div>
   );
